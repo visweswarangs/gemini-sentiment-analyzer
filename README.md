@@ -1,3 +1,5 @@
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://gemini-sentiment-analyzer.streamlit.app/)
+
 # 🎭 Gemini Sentiment & Tone Analyzer
 
 A complete, beginner-friendly AI project built with **Streamlit** and the **Google Gemini API**. It analyzes text input in real-time and visualizes sentiment classification, polarity score, emotional breakdown, and key influential phrases.
